@@ -6,7 +6,7 @@ NOMBRE: Juan Diego Gutiérrez
 
 NRC: 7309
 
-FECHA: 18/05/2022
+FECHA: 29/06/2022
 
 INFORME TAREA N.4
 
