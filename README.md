@@ -18,13 +18,13 @@ A)	Analizar los conceptos voltaje, corriente y resistencia, mediante la compresi
 
 •	Objetivo Específicos:
 
-A)	Reconocer el uso de las unidades de medición para sus aplicaciones.
+A)	Determinar el analisis de circuitos en serie-paralelo.
 
-B)	Comprender los tipos de notación científica en la ingeniería.
+B)	Entender las reglas de puentes de WHEATSTONE.
 
-C)	Determinar las unidades en la corriente, voltaje y resistencia.
+C)  Analizar las fuentes de corriente y .
 
-D)	Establecer las formulas (con sus respectivas unidades) de corriente, voltaje y resistencia.
+D)	Establecer las leyes de Superposicion, Norton y Thevenin para aplicar a los circuitos.
 
 II. Marco Teorico
 
