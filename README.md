@@ -110,6 +110,10 @@ III. Resolucion de EJERCICIOS
     
 ![image](https://user-images.githubusercontent.com/105677161/176577578-616ce0bf-83b9-467d-887d-868db36edb0f.png)
 
+![image](https://user-images.githubusercontent.com/105677161/176584070-1754c99c-fa4d-4944-a5fd-dbf7411a7b0c.png)
+
+![image](https://user-images.githubusercontent.com/105677161/176584468-d07cfe33-16ca-440e-8bec-be87a1f51feb.png)
+
 
 
 IV. Video
