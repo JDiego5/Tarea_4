@@ -164,7 +164,7 @@ III. Resolucion de EJERCICIOS
 
 IV. Video
 
-
+Link del video sobre la explicacion del informe: https://youtu.be/B0DN5OUbkI0
 
 V. Conclusiones 
 
