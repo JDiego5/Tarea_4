@@ -104,5 +104,34 @@ II. Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/105677161/176562950-1e0e49e5-4dfc-425f-933f-a61da3b4a83a.png)
 
+III. Resolucion de EJERCICIOS
+
+    Ejercicios tema 7
+    
+![image](https://user-images.githubusercontent.com/105677161/176577578-616ce0bf-83b9-467d-887d-868db36edb0f.png)
+
+
+
+IV. Video
+
+V. Conclusiones 
+
+En estos capitulos logramos enteder como resolver y reducir circuitos bastantes complicados a unos mas simples.
+Estos circuitos pueden estar en serie, paralelo o poder encontrar ambos casos en un solo circuito, mediante las
+formulas de los puentes de Wheastone, la salida de puente por un transmistor, por lo que se reviso como usar los 
+diferentes teoremas para la comprension. En tre ellos los teoremas de thevenin, superposicion y de norton.
+
+VI. Bibliografia 
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava edición) [Libro electrónico]. Pearson Education.
+
+
+
+
+
+
+
+
+
 
 
